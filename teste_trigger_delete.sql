@@ -1,0 +1,1 @@
+DELETE FROM venda_produto WHERE id_venda = 8
